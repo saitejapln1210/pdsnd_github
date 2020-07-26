@@ -5,11 +5,22 @@ July.26 2020
 Udacity Bike-Share Project
 
 ### Description
-Run statistics on multiple data pools related to bicycle sharing
+In this project we will perform statistics on multiple data pools related to bicycle sharing
+
+### Software Requirements
+Pandas,Numpy and python 3
+text editors like atom or sublime text
+
+
 
 ### Files used
-new_york_city.csv chicago.csv washington.csv
+new_york_city.csv
+chicago.csv
+washington.csv
+ 
 
 ### Credits
-Thank you to Udacity for creating the challenging project!
+The original repo of this is forked from can be found here: [link](https://github.com/udacity/pdsnd_github.git "Git")
 
+Thank you to Udacity for creating the challenging project!
+I also want to thank stackoverflow and pandas documentation websites which also hepled me a lot
