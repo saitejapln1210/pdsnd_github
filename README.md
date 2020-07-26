@@ -12,6 +12,7 @@ Pandas,Numpy and python 3
 text editors like atom or sublime text
 
 
+
 ### Files used
 new_york_city.csv
 chicago.csv
