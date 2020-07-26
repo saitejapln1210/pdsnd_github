@@ -13,7 +13,10 @@ text editors like atom or sublime text
 
 
 ### Files used
-new_york_city.csv chicago.csv washington.csv
+new_york_city.csv
+chicago.csv
+washington.csv
+ 
 
 ### Credits
 Thank you to Udacity for creating the challenging project!
