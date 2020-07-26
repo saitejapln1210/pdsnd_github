@@ -5,7 +5,8 @@ July.26 2020
 Udacity Bike-Share Project
 
 ### Description
-Run statistics on multiple data pools related to bicycle sharing
+In this project we will perform statistics on multiple data pools related to bicycle sharing
+
 
 ### Files used
 new_york_city.csv chicago.csv washington.csv
