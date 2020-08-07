@@ -3,13 +3,17 @@ July.26 2020
 
 ### Project Title
 Udacity Bike-Share Project
+SQl Queries 
+Git Learning
 
 ### Description
-In this project we will perform statistics on multiple data pools related to bicycle sharing
+In this Nanodegree  we will perform statistics on multiple data pools related to bicycle sharing and we will also investigate a Database.
 
 ### Software Requirements
 Pandas,Numpy and python 3
 text editors like atom or sublime text
+SQl
+version Controlling using Git
 
 
 
