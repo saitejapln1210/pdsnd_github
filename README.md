@@ -27,4 +27,4 @@ In this Nanodegree  we will perform statistics on multiple data pools related to
 The original repo of this is forked from can be found here: [link](https://github.com/udacity/pdsnd_github.git "Git")
 
 Thank you to Udacity for creating the challenging project!
-I also want to thank stackoverflow and pandas documentation websites which also hepled me a lot
+I also want to thank stackoverflow and pandas documentation websites which also hepled me a lot.
